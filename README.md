@@ -119,10 +119,10 @@ All credentials and secrets are excluded from this repository and are expected t
 ---
 
 ## 👤 Author
-**Roshan Fareed N**  
+**Shubh Oswal**  
 Data Engineer (Aspiring)  
-- LinkedIn: https://linkedin.com/in/roshanfareed53
-- GitHub: https://github.com/ROSHANFAREED
+- LinkedIn: https://www.linkedin.com/in/shubhoswal/
+- GitHub: https://github.com/soswal2506
 
 ---
 
